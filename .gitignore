@@ -1,0 +1,30 @@
+# No data, ever -- this repo is code only.
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.dcm
+*.nii
+*.nii.gz
+*.npy
+*.npz
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tif
+*.tiff
+*.pdf
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pkl
+
+# OS / editor cruft
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
